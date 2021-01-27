@@ -24,11 +24,16 @@ html, body {
     width: 100%;
     height: 50%;
 }
-#jumbotron-water {
-    background: no-repeat center fixed;
+.jumbotron {
+    margin-top: 20 px;
+    background-image: url(https://images.unsplash.com/photo-1525873020571-08690094e301?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
     background-size: cover;
-
+    background-repeat: no-repeat;
+    color: white;
 }
+
+
+
 
 
 
