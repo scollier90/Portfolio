@@ -47,7 +47,10 @@ html, body {
 .imgpadding {
     padding-left: 2%;
 }
-
+.cover-text {
+    padding: 1%;
+    font-size:x-large;
+}
 
 
 
